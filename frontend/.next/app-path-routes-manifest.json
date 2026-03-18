@@ -1,0 +1,16 @@
+{
+  "/(app)/campaigns/page": "/campaigns",
+  "/(app)/customers/[id]/page": "/customers/[id]",
+  "/(app)/customers/new/page": "/customers/new",
+  "/(app)/customers/page": "/customers",
+  "/(app)/dashboard/page": "/dashboard",
+  "/(app)/import/page": "/import",
+  "/(app)/messages/page": "/messages",
+  "/(app)/opportunities/page": "/opportunities",
+  "/(app)/settings/page": "/settings",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/login/page": "/login",
+  "/page": "/"
+}
