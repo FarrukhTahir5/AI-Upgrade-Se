@@ -1,0 +1,11 @@
+customer_code,customer_name,phone,email,city,region,pv_kw,battery_kwh,panel_wattage,install_year,hybrid_flag,gl_expiry_date,month_1,month_2,month_3,month_4,month_5,month_6,month_7,month_8,month_9,month_10,month_11,month_12
+SE-20001,Ahmad Hassan,+923001234567,ahmad@example.com,Lahore,Punjab,10,7.5,370,2020,true,2027-06-15,420.5,455.2,480.1,510.3,550.0,620.8,680.4,710.2,650.1,580.3,490.2,430.1
+SE-20002,Fatima Khan,+923009876543,fatima@example.com,Karachi,Sindh,7,0,330,2018,false,2025-08-20,380.0,390.5,410.2,450.8,520.3,590.1,640.5,660.0,600.2,530.4,440.1,395.0
+SE-20003,Muhammad Ali,+923112223344,mali@example.com,Islamabad,ICT,15,10,450,2022,true,2029-03-10,550.2,580.1,610.5,640.0,690.3,750.8,810.2,830.5,780.1,700.4,630.2,570.0
+SE-20004,Ayesha Siddiqui,+923215556677,ayesha@example.com,Rawalpindi,Punjab,5,5,270,2017,true,2024-12-01,310.5,325.0,340.2,365.8,400.1,450.3,490.5,510.0,470.2,420.1,360.5,320.0
+SE-20005,Omar Farooq,+923338889900,omar@example.com,Faisalabad,Punjab,20,15,540,2023,true,2030-09-25,680.0,710.5,750.2,790.8,850.3,920.1,980.5,1020.0,960.2,880.4,780.1,700.0
+SE-20006,Zainab Malik,+923451112233,zainab@example.com,Multan,Punjab,10,0,400,2019,false,2026-04-18,450.2,470.1,495.5,530.0,580.3,640.8,700.2,720.5,670.1,600.4,520.2,460.0
+SE-20007,Bilal Ahmed,+923017778899,bilal@example.com,Peshawar,KPK,7,7.5,370,2021,true,2028-01-30,360.5,380.0,400.2,430.8,470.1,520.3,570.5,590.0,540.2,480.1,410.5,370.0
+SE-20008,Hira Naz,+923124445566,hira@example.com,Quetta,Balochistan,5,0,330,2016,false,2025-06-12,290.0,305.5,320.2,345.8,380.1,420.3,460.5,480.0,440.2,390.1,330.5,300.0
+SE-20009,Usman Sheikh,+923236667788,usman@example.com,Sialkot,Punjab,15,10,450,2020,true,2027-11-08,520.2,550.1,580.5,610.0,660.3,720.8,780.2,800.5,750.1,670.4,590.2,530.0
+SE-20010,Sara Iqbal,+923349990011,sara@example.com,Lahore,Punjab,25,20,580,2024,true,2031-07-22,750.0,790.5,830.2,870.8,940.3,1020.1,1100.5,1140.0,1060.2,960.4,850.1,770.0
