@@ -1,4 +1,6 @@
 .env
-__pycache__/
-node_modules/
-.agent/
+frontend/node_modules
+frontend/.next
+node_modules
+.next
+.agent
